@@ -1,6 +1,6 @@
 # LeetCode - Database
 
-Minha intenção com esse repositório é praticar a minha lógica em consultas SQL e, assim também, compartilhar a solução dos problemas de [LeetCode](https://leetcode.com/).
+Minha intenção com esse repositório é praticar a minha lógica em consultas SQL e, assim também, compartilhar a solução dos problemas.
 
 Os problemas foram resolvidos usando a linguagem `T-SQL` do SQL Server.
 
