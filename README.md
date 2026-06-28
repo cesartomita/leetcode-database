@@ -31,4 +31,6 @@ Abaixo, uma tabela com o nome do problema, dificuldade, tags (palavras-chave), o
 | 595. Big Countries | Easy | `where` `or` | [Link](./Problems/595.%20Big%20Countries/README.md) | [Link](./Problems/595.%20Big%20Countries/setup.sql) | [Link](./Problems/595.%20Big%20Countries/solution.sql) |
 | 596. Classes With at Least 5 Students | Easy | `group by` `having` | [Link](./Problems/596.%20Classes%20With%20at%20Least%205%20Students/README.md) | [Link](./Problems/596.%20Classes%20With%20at%20Least%205%20Students/setup.sql) | [Link](./Problems/596.%20Classes%20With%20at%20Least%205%20Students/solution.sql) |
 | 601. Human Traffic of Stadium | Hard | `lag()` `window function` | [Link](./Problems/601.%20Human%20Traffic%20of%20Stadium/README.md) | [Link](./Problems/601.%20Human%20Traffic%20of%20Stadium/setup.sql) | [Link](./Problems/601.%20Human%20Traffic%20of%20Stadium/solution.sql) |
+| 602. Friend Requests II: Who Has the Most Friends | Medium | `union all` `group by` `top 1` | [Link](./Problems/602.%20Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends/README.md) | [Link](./Problems/602.%20Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends/setup.sql) | [Link](./Problems/602.%20Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends/solution.sql) |
+
 
